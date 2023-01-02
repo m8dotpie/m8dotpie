@@ -5,7 +5,7 @@
 <a href="https://azure.microsoft.com/ru-ru/resources/development-kit/quantum-computing/" target="blank">
 <img src="assets/qsharp.svg" style="width:35px;height:35px;"></a>
 <a href="https://en.cppreference.com/w/" target="blank">
-<img src="assets/cpp.png" style="width:35px;height:35px;"></a>   
+<img src="assets/cpp_logo.png" style="width:35px;height:35px;"></a>   
 <a href="https://en.cppreference.com/w/" target="blank">
 <img src="assets/clogo.png" style="width:35px;height:35px;"></a>  
 <a href="https://python.org/" target="blank">
