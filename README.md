@@ -18,7 +18,15 @@
 - [ ] Postdoc...
 ## Chill
 
-<img src="assets/VALORANT.png" style="width:70px;height:50px;">
-<img src="assets/factorio-wheel.webp" style="width:50px;height:50px;">
-<img src="assets/cultistsim.png" style="width:50px;height:50px;">
-<img src="assets/artifact.png" style="width:50px;height:50px;">
+<a href="https://playvalorant.com/en-gb/" target="blank">
+<img src="assets/VALORANT.png" style="width:70px;height:50px;"></a>
+<a href="https://www.factorio.com" target="blank">
+<img src="assets/factorio-wheel.webp" style="width:50px;height:50px;"></a>
+<a href="https://store.steampowered.com/app/718670/Cultist_Simulator/" target="blank">
+<img src="assets/cultistsim.png" style="width:50px;height:50px;"></a>
+<a href="https://store.steampowered.com/app/583950/Artifact/" target="blank">
+<img src="assets/artifact.png" style="width:50px;height:50px;"></a>
+
+
+
+
