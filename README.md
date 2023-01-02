@@ -2,6 +2,23 @@
 
 ### Computer Science | Engineering | Robotics | Embedded Development | Mathematics | Theory & Algorithms | Quantum Computing | Quantum Information Processing
 
+<a href="https://azure.microsoft.com/ru-ru/resources/development-kit/quantum-computing/" target="blank">
+<img src="assets/qsharp.svg" style="width:35px;height:35px;"></a>
+<a href="https://en.cppreference.com/w/" target="blank">
+<img src="assets/cpp.png" style="width:35px;height:35px;"></a>   
+<a href="https://en.cppreference.com/w/" target="blank">
+<img src="assets/c_logo.png" style="width:30px;height:33px;"></a>  
+<a href="https://python.org/" target="blank">
+<img src="assets/python.png" style="width:30px;height:30px;"></a> 
+<a href="https://neovim.io/" target="blank">
+<img src="assets/neovim.png" style="width:30px;height:30px;"></a>
+<a href="https://gnu.org/" target="blank">
+<img src="assets/emacs.png" style="width:30px;height:30px;"></a>
+<a href="https://code.visualstudio.com" target="blank">
+<img src="assets/vsc.png" style="width:30px;height:30px;"></a>
+<a href="https://jetbrains.com" target="blank">
+<img src="assets/jb_beam.png" style="width:30px;height:30px;"></a>
+
 ## General Information
 
 [Brief CV](assets/brief.pdf)
