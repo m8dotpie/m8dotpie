@@ -7,7 +7,7 @@
 <a href="https://en.cppreference.com/w/" target="blank">
 <img src="assets/cpp.png" style="width:35px;height:35px;"></a>   
 <a href="https://en.cppreference.com/w/" target="blank">
-<img src="assets/c_logo.png" style="width:30px;height:33px;"></a>  
+<img src="assets/clogo.png" style="width:35px;height:35px;"></a>  
 <a href="https://python.org/" target="blank">
 <img src="assets/python.png" style="width:30px;height:30px;"></a> 
 <a href="https://neovim.io/" target="blank">
